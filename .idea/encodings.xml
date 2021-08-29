@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Results/Dutch.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results/English.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results/FirstPrice.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results/SecondPrice.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results_Files/Dutch.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results_Files/Dutch.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results_Files/English.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results_Files/English.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results_Files/FirstPrice.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results_Files/FirstPrice.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results_Files/SecondPrice.csv" charset="windows-1255" />
+    <file url="file://$PROJECT_DIR$/Results_Files/SecondPrice.csv" charset="windows-1255" />
+  </component>
+</project>
